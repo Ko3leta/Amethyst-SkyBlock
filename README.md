@@ -1,4 +1,4 @@
-### Amethyst SkyBlock is a Hardcore skyblock-themed DataPack for Minecraft Java Edition 1.21 and newer
+**Amethyst SkyBlock** is a Hardcore skyblock-themed DataPack for Minecraft Java Edition 1.21 and newer
 
 ## 🦑 About:
 The **Amethyst SkyBlock** DataPack provides an ability to play the most complex and hardcore modification of everyone’s favorite skyblock minigame.
