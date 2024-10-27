@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": [
+    "minecraft:crying_obsidian"
+  ],
+  "result": {
+    "id": "minecraft:obsidian"
+  },
+  "experience": 0.1,
+  "cookingtime": 400
+}

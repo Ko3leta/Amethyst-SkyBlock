@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": [
+    "minecraft:netherrack"
+  ],
+  "result": {
+    "id": "minecraft:magma_block"
+  },
+  "experience": 0.4,
+  "cookingtime": 800
+}

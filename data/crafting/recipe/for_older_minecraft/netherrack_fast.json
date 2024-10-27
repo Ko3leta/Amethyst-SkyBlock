@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:blasting",
+    "category": "blocks",
+    "ingredient": {
+        "item": "minecraft:obsidian"
+    },
+    "result": {
+        "id": "minecraft:netherrack"
+    },
+    "experience": 0.2,
+    "cookingtime": 800
+}
