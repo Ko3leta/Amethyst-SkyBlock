@@ -1,0 +1,10 @@
+{
+	"pack": {
+		"pack_format": 57,
+		"supported_formats": {
+      "min_inclusive": 48,
+      "max_inclusive": 57
+    },
+		"description": "| DataPack by Ko3leta\n| §4Hardcore§r SkyBlock"
+	}
+}
