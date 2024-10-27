@@ -1,6 +1,6 @@
 **Amethyst SkyBlock** is a Hardcore skyblock-themed DataPack for Minecraft Java Edition 1.21 and newer
 
-**Amethyst SkyBlock** DataPack updates faster on [Modrinth](https://modrinth.com/datapack/amethyst-skyblock)
+**Amethyst SkyBlock** DataPack updates faster on [**Modrinth**](https://modrinth.com/datapack/amethyst-skyblock)
 
 ## 🦑 About:
 The **Amethyst SkyBlock** DataPack provides an ability to play the most complex and hardcore modification of everyone’s favorite skyblock minigame. Here you have to survive on a block of budding amethyst... You won't need anything else. Here you are alone with emptiness, boredom and monotonous repetition of the same actions. Test your strength, endurance and knowledge in the field of crafts, mobs and drops with this datapack.
@@ -30,6 +30,6 @@ The future of this DataPack remains unclear, since the topic is unpopular... You
 - Something is hiding here
 
 ## 💖 Special thanks:
-Many thanks to [Specis](https://www.youtube.com/@specis7524) for giving a permission to use the idea of the **Amethyst SkyBlock**.
+Many thanks to [**Specis**](https://www.youtube.com/@specis7524) for giving a permission to use the idea of the **Amethyst SkyBlock**.
 
-Many thanks to [HappyTimosha](https://discord.com/users/842623861254127637) for testing and bugfixing the **Amethyst SkyBlock** DataPack.
+Many thanks to [**HappyTimosha**](https://discord.com/users/842623861254127637) for testing and bugfixing the **Amethyst SkyBlock** DataPack.
