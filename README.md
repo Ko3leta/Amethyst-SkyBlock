@@ -30,6 +30,13 @@ You can play with the DataPack, publish content about it, but you cannot re-uplo
 </details>
 
 <details>
+<summary>Amethyst SkyBlock compatibility</summary>
+
+**Amethyst SkyBlock** is compatible with most client-side mods. But we cannot guarantee that during the survival with this datapack, you will be able to get all the resources from the mods or that everything will work correctly.
+
+</details>
+
+<details>
 <summary>Content about Amethyst SkyBlock</summary>
 
 You can freely write posts, post screenshots or upload videos about this DataPack on a variety of platforms such as Instagram, Facebook, X, YouTube and any others. If possible, write somewhere an authorship or a link to the original page on [**Modrinth**](https://modrinth.com/datapack/amethyst-skyblock) or [**GitHub**](https://github.com/Ko3leta/Amethyst-SkyBlock).
