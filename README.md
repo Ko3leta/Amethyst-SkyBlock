@@ -1,3 +1,7 @@
+![](https://github.com/user-attachments/assets/1b4a0d19-e27e-4b1f-9f6a-1a39bb5ee1b2)
+
+> *If you can't fly then run, if you can't run then walk, if you can't walk then crawl...*
+
 **Amethyst SkyBlock** is a Hardcore skyblock-themed DataPack for Minecraft Java Edition 1.21 and newer
 
 **Amethyst SkyBlock** DataPack updates faster on [**Modrinth**](https://modrinth.com/datapack/amethyst-skyblock)
@@ -53,6 +57,9 @@ The future of this DataPack remains unclear, since the topic is unpopular... You
 - Special creatures and monsters
 - It's hiding in the emptiness, don't look back...
 - Something is hiding here
+
+![](https://github.com/user-attachments/assets/9cd1d4f8-060d-4c19-a03a-ef5650be683c)
+
 
 ## 💖 Special thanks:
 Many thanks to [**Specis**](https://www.youtube.com/@specis7524) for giving a permission to use the idea of the **Amethyst SkyBlock**.
