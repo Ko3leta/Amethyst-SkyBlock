@@ -52,7 +52,6 @@ The future of this DataPack remains unclear, since the topic is unpopular... You
 - More unique crafts and loots
 - Special creatures and monsters
 - It's hiding in the emptiness, don't look back...
-- Something is hiding here
 
 ![](https://github.com/user-attachments/assets/9cd1d4f8-060d-4c19-a03a-ef5650be683c)
 
