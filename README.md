@@ -10,7 +10,7 @@
 The **Amethyst SkyBlock** DataPack provides an ability to play the most complex and hardcore modification of everyone’s favorite skyblock minigame. Here you have to survive on a block of budding amethyst... You won't need anything else. Here you are alone with emptiness, boredom and monotonous repetition of the same actions. Test your strength, endurance and knowledge in the field of crafts, mobs and drops with this datapack.
 
 ## 🎮 Gameplay:
-You start with one block below you and empty inventory. Get some amethyst shard and place your first block... Expand your platform, build a mob farm and obtain new and new types of resources, exploring the innovations of this DataPack! **Amethyst** SkyBlock provides the opportunity to go through all stages of the game up to going to the Nether, getting blaze rods and defeating the ender dragon in the End.
+You start with one block below you and empty inventory. Get some amethyst shard and place your first block... Expand your platform, build a mob farm and obtain new and new types of resources, exploring the innovations of this DataPack! **Amethyst SkyBlock** provides the opportunity to go through all stages of the game up to going to the Nether, getting blaze rods and defeating the ender dragon in the End.
 
 ## 🌺 Multiplayer:
 Amethyst SkyBlock allows you to play on the same map with friends. You all can start the game together, or some players can join the game even after you started. The choice is yours!
