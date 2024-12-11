@@ -15,8 +15,6 @@ You start with one block below you and empty inventory. Get some amethyst shard 
 ## 🌺 Multiplayer:
 Amethyst SkyBlock allows you to play on the same map with friends. You all can start the game together, or some players can join the game even after you started. The choice is yours!
 
-**Warning**: _Now the multiplayer is unstable. To avoid fatal bugs, DO NOT join the game before survival has started!!!_
-
 ## 📜 How to play:
 You only need to create a new superflat world with "The Void" preset and add this DataPack into it... Thats all! If you couldn’t do it yourself, read the Amethyst SkyBlock Installation guide (ENG/RUS).
 
