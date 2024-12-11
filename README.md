@@ -13,10 +13,10 @@ The **Amethyst SkyBlock** DataPack provides an ability to play the most complex 
 You start with one block below you and empty inventory. Get some amethyst shard and place your first block... Expand your platform, build a mob farm and obtain new and new types of resources, exploring the innovations of this DataPack! **Amethyst SkyBlock** provides the opportunity to go through all stages of the game up to going to the Nether, getting blaze rods and defeating the ender dragon in the End.
 
 ## 🌺 Multiplayer:
-Amethyst SkyBlock allows you to play on the same map with friends. You all can start the game together, or some players can join the game even after you started. The choice is yours!
+**Amethyst SkyBlock** allows you to play on the same map with friends. You all can start the game together, or some players can join the game even after you started. The choice is yours!
 
 ## 📜 How to play:
-You only need to create a new superflat world with "The Void" preset and add this DataPack into it... Thats all! If you couldn’t do it yourself, read the Amethyst SkyBlock Installation guide (ENG/RUS).
+You only need to create a new superflat world with "The Void" preset and add this DataPack into it... Thats all! If you couldn’t do it yourself, read the [**Amethyst SkyBlock Installation guide**](https://docs.google.com/document/d/1seVshTsOhoCcbvGqgUr9E7IurhMomV2-T-2kiYGvJwk/edit?usp=sharing) (ENG/RUS).
 
 ## 🎫 FAQ:
 
