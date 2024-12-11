@@ -18,8 +18,6 @@ Amethyst SkyBlock allows you to play on the same map with friends. You all can s
 ## 📜 How to play:
 You only need to create a new superflat world with "The Void" preset and add this DataPack into it... Thats all! If you couldn’t do it yourself, read the Amethyst SkyBlock Installation guide (ENG/RUS).
 
-**Warning**: _DO NOT use cheats, reload resources or change gamerules to avoid fatal bugs!!!_
-
 ## 🎫 FAQ:
 
 Here you will find a collection of possible questions about the **Amethyst SkyBlock** DataPack:
