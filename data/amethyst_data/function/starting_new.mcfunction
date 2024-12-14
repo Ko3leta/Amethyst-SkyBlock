@@ -1,11 +1,11 @@
 gamemode survival @a
-execute as @a at @s run attribute @s minecraft:player.entity_interaction_range base set 3
+execute as @a at @s run attribute @s minecraft:entity_interaction_range base set 3
 tag @e[type=block_display,tag=settings] add started2
 
 
 
 gamemode survival @a
-execute as @a at @s run attribute @s minecraft:player.entity_interaction_range base set 3
+execute as @a at @s run attribute @s minecraft:entity_interaction_range base set 3
 
 
 gamemode survival @a

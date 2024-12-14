@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "MAM",
+        "AEA",
+        "MAM"
+    ],
+    "key": {
+        "E": "minecraft:ender_eye",
+        "A": "minecraft:amethyst_block",
+        "M": "minecraft:amethyst_cluster"
+    },
+    "result": {
+        "id": "minecraft:budding_amethyst",
+        "count": 1
+    }
+}
+

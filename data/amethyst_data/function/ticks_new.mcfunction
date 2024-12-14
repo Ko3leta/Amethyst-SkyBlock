@@ -38,10 +38,10 @@ execute as @a[gamemode=adventure,nbt=!{active_effects:[{id:"minecraft:blindness"
 execute as @a[gamemode=spectator,nbt=!{active_effects:[{id:"minecraft:blindness"}]}] at @s unless entity @e[tag=started2] at @s if entity @e[type=text_display,tag=welcome_sky_front,tag=anim_finale] at @s run title @s actionbar {"text":"You're a ghost now! Please wait until another player starts the game.","color":"dark_gray"}
 
 
-execute as @a[gamemode=spectator] at @s unless entity @e[tag=started2] at @s run attribute @s minecraft:player.entity_interaction_range base set 0
-execute as @a[gamemode=adventure] at @s unless entity @e[tag=started2] at @s run attribute @s minecraft:player.entity_interaction_range base set 3
+execute as @a[gamemode=spectator] at @s unless entity @e[tag=started2] at @s run attribute @s minecraft:entity_interaction_range base set 0
+execute as @a[gamemode=adventure] at @s unless entity @e[tag=started2] at @s run attribute @s minecraft:entity_interaction_range base set 3
 
-execute as @a[gamemode=adventure,tag=!basic_attrib] at @s if entity @e[type=block_display,tag=settings,tag=started2] at @s run attribute @s minecraft:player.entity_interaction_range base set 3
+execute as @a[gamemode=adventure,tag=!basic_attrib] at @s if entity @e[type=block_display,tag=settings,tag=started2] at @s run attribute @s minecraft:entity_interaction_range base set 3
 execute as @a[gamemode=adventure,tag=!basic_attrib] at @s if entity @e[type=block_display,tag=settings,tag=started2] at @s run effect clear @s
 execute as @a[gamemode=adventure,tag=!basic_attrib] at @s if entity @e[type=block_display,tag=settings,tag=started2] at @s run tag @s add basic_attrib
 
