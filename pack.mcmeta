@@ -3,8 +3,8 @@
 		"pack_format": 57,
 		"supported_formats": {
       "min_inclusive": 48,
-      "max_inclusive": 57
+      "max_inclusive": 61
     },
-		"description": "| DataPack by Ko3leta\n| §4Hardcore§r SkyBlock"
+		"description": "§8|§r A DataPack by Ko3leta\n§8|§r §7It's §4H§ka§r§4rdc§ko§r§4re§r §7SkyBlock"
 	}
 }
